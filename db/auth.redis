@@ -1,0 +1,2 @@
+SET ROLE_READER book:read
+SET ROLE_WRITER book:write,book:read
